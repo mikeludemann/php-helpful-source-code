@@ -1,0 +1,14 @@
+{
+    "name": "mikeludemann/php-helpful-source-code",
+    "description": "PHP Helpful Source Code",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Ludemann",
+            "email": "mike-ludemann@hotmail.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
